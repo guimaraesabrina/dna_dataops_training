@@ -1,2 +1,2 @@
-# dna_dataops_training_2024
-📌 repository dedicated to the DataOps course offered by NTT DATA
+# DataOps Training: 2024
+## 1ª Edition
